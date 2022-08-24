@@ -23,7 +23,7 @@
 ######
 **7:52** Go find seat to sit
 ######
-- <sub>Puchao to Samrong :face_exhaling</sub> :face_exhaling:
+- <sub>Puchao to Samrong</sub> :face_exhaling:
 #####
 **7:55** Next station Samrong:sleepy:
 ######
@@ -72,7 +72,7 @@
 ######
 **8:55** Go to my classroom 
 ######
-**9:00** Be ready for the next class!
+**9:00** Be ready for the next class! :blush:
 
 
 
