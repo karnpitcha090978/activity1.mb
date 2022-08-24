@@ -19,7 +19,7 @@
 **7:44** find the train that go to khukhot!
 ######
 **7:50** When the train arrived check all the thing in the backpack again!!
-- <sub>Do you trust me that I have a bad memory and have to check everytime</sub>
+- <sub>Do you trust me now that I have a bad memory and have to check everytime</sub>
 ######
 **7:52** Go find seat to sit
 ######
@@ -32,6 +32,8 @@
 **7:59** Next station Bangna 
 ######
 **8:01** Next station UdomSuk 
+######
+- <sub>When it going to arrive</sub>
 ######
 **8:02** Next station Punnawithi
 ######
@@ -50,6 +52,8 @@
 **8:16** Next station Asok
 ######
 **8:18** Next station Nana
+######
+- <sub>Almost</sub>
 ######
 **8:20** Next station Phleom Chit
 ######
